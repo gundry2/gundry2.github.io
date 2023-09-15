@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'University of Washington, Seattle>
+subtitle: <a href='#'>University of Washington, Seattle, WA
 
 profile:
   align: right
   image: 
   image_circular: false # crops the image to make it circular
   address: >
-    # <p>555 your office number</p>
-    // <p>123 your address street</p>
-    <p>Seattle, WA</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
