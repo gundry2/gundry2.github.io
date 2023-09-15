@@ -18,7 +18,7 @@ nav_order: 3
 
 ---
 
-{% if site.repo_trophies.enabled %}
+{% if false %}
 {% for user in site.data.repositories.github_users %}
   {% if site.data.repositories.github_users.size > 1 %}
   <h4>{{ user }}</h4>
