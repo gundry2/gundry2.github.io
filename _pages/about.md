@@ -23,4 +23,4 @@ Hi, I'm Athena, an undergraduate at UW Seattle majoring in Computer Science and 
 
 Currently, my main interests are in machine learning and quantitative trading; both are excellent opportunities for me to apply the mathematics I've learned.
 
-In my spare time, I like to teach myself more math, work on personal projects, and host tabletop game sessions for my friends
+In my spare time, I like to teach myself more math, work on personal projects, and host tabletop game sessions for my friends.
